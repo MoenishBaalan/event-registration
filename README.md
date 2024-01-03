@@ -32,6 +32,7 @@ Publish the website in the given URL.
 Figma
 
 ###PROGRAM:
+```
 ### CSS CODE
 ### Login Page:
 .desktop-1-6Lu {
@@ -519,7 +520,7 @@ width: 10rem;
 }
 }
 }
-
+```
 
 ## OUTPUT:
 
